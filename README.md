@@ -7,19 +7,13 @@
 
 ### Installation
 
-
-git clone <your-repo-url>
-
-
+git clone https://github.com/Omkarsawant10/User_DashBoard
 
 # Install dependencies
 npm install
 
-
 # Start the development server
 npm run dev
-
-
 
 # User Dashboard Project
 
