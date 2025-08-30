@@ -10,8 +10,7 @@
 
 git clone <your-repo-url>
 
-# Go to project directory
-cd user-dashboard
+
 
 # Install dependencies
 npm install
